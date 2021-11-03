@@ -1,0 +1,45 @@
+* {
+    background-color: #FEC260;
+    color: #2A0944;
+    display: block;
+}
+#nombre {
+    font-family: sans-serif;
+    color:#A12568; /* R G B */
+}
+.titulo {
+    background-color: #FFECB3;
+    width: 33.3%;
+   display: inline-block;
+   margin: 0px;
+   border: 0px;
+   padding: 0px;
+}
+img {
+    height: 130px;
+    width: 200px;
+}
+.Salv-Parrafo1 {
+    background-color: aqua;
+    width: 49%;
+}
+.Salv-Parrafo1:hover {
+    background-color: #3B185F;
+    color: #FEC260;
+}
+.Jos-Parrafo2 {
+    color: #FEC260;
+    font-weight: bold;
+    background-color: brown;
+    width: 49%;
+}
+.Jos-Parrafo2:hover {
+    background-color: #3B185F;
+    color: #FEC260;
+}
+h1:hover {
+    background-color: red;
+}
+div {
+    display: flexbox;
+}
